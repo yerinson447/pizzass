@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bebidas &#8211; Las Pizzas De Raffucho</title>
+	<atom:link href="https://raffucho.netlify.app/product-category/bebidas/feed/" rel="self" type="application/rss+xml" />
+	<link>https://raffucho.netlify.app</link>
+	<description></description>
+	<lastBuildDate>Sun, 12 Nov 2023 23:50:36 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>Sangria</title>
+		<link>https://raffucho.netlify.app/product/sangria/</link>
+		
+		<dc:creator><![CDATA[Yerinson Hernandez]]></dc:creator>
+		<pubDate>Sun, 12 Nov 2023 23:40:34 +0000</pubDate>
+				<guid isPermaLink="false">https://raffucho.netlify.app/?post_type=product#038;p=878</guid>
+
+					<description><![CDATA[Una explosión vibrante de frutas frescas y vino, ofreciendo una mezcla refrescante y colorida.​]]></description>
+										<content:encoded><![CDATA[Una explosión vibrante de frutas frescas y vino, ofreciendo una mezcla refrescante y colorida.​]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Frozen</title>
+		<link>https://raffucho.netlify.app/product/frozen/</link>
+		
+		<dc:creator><![CDATA[Yerinson Hernandez]]></dc:creator>
+		<pubDate>Sun, 12 Nov 2023 23:23:36 +0000</pubDate>
+				<guid isPermaLink="false">https://raffucho.netlify.app/?post_type=product#038;p=876</guid>
+
+					<description><![CDATA[Una textura congelada que agrega una dimensión refrescante y jugosa a la mezcla.​]]></description>
+										<content:encoded><![CDATA[Una textura congelada que agrega una dimensión refrescante y jugosa a la mezcla.​]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cerveza</title>
+		<link>https://raffucho.netlify.app/product/cerveza/</link>
+		
+		<dc:creator><![CDATA[Yerinson Hernandez]]></dc:creator>
+		<pubDate>Sun, 12 Nov 2023 23:10:46 +0000</pubDate>
+				<guid isPermaLink="false">https://raffucho.netlify.app/?post_type=product#038;p=873</guid>
+
+					<description><![CDATA[La intensidad y complejidad de la cerveza, con su equilibrio único de amargor y cuerpo.​]]></description>
+										<content:encoded><![CDATA[La intensidad y complejidad de la cerveza, con su equilibrio único de amargor y cuerpo.​]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Te Verde</title>
+		<link>https://raffucho.netlify.app/product/te-verde/</link>
+		
+		<dc:creator><![CDATA[Yerinson Hernandez]]></dc:creator>
+		<pubDate>Sun, 12 Nov 2023 23:05:17 +0000</pubDate>
+				<guid isPermaLink="false">https://raffucho.netlify.app/?post_type=product#038;p=870</guid>
+
+					<description><![CDATA[Una infusión ligera y revitalizante, aportando notas herbales y saludables.​]]></description>
+										<content:encoded><![CDATA[Una infusión ligera y revitalizante, aportando notas herbales y saludables.​]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Agua</title>
+		<link>https://raffucho.netlify.app/product/agua/</link>
+		
+		<dc:creator><![CDATA[Yerinson Hernandez]]></dc:creator>
+		<pubDate>Sun, 12 Nov 2023 22:55:50 +0000</pubDate>
+				<guid isPermaLink="false">https://raffucho.netlify.app/?post_type=product#038;p=868</guid>
+
+					<description><![CDATA[Una fuente de pureza y frescura, para hidratar y equilibrar los sabores.]]></description>
+										<content:encoded><![CDATA[Una fuente de pureza y frescura, para hidratar y equilibrar los sabores.]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>PepsiCola 1L</title>
+		<link>https://raffucho.netlify.app/product/pepsicola-1l/</link>
+		
+		<dc:creator><![CDATA[Yerinson Hernandez]]></dc:creator>
+		<pubDate>Sun, 12 Nov 2023 22:28:28 +0000</pubDate>
+				<guid isPermaLink="false">https://raffucho.netlify.app/?post_type=product#038;p=857</guid>
+
+					<description><![CDATA[El clásico efervescente, con su distintivo sabor a cola y burbujas revitalizantes.]]></description>
+										<content:encoded><![CDATA[El clásico efervescente, con su distintivo sabor a cola y burbujas revitalizantes.]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,10 @@
+2023-11-13T01:13:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\hamburguesas\wp-includes\class-wpdb.php en la línea 2349
+
+2023-11-13T01:17:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\hamburguesas\wp-includes\class-wpdb.php en la línea 2349
+
+2023-11-13T01:32:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\hamburguesas\wp-includes\class-wpdb.php en la línea 2349
+
+2023-11-13T01:43:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\hamburguesas\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
+2023-11-13T02:42:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\hamburguesas\wp-includes\class-wpdb.php en la línea 2349
+
